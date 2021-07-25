@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67084343510",
+    "project_id": "batchmate-30433",
+    "storage_bucket": "batchmate-30433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67084343510:android:0ebddc95ad242b4108d177",
+        "android_client_info": {
+          "package_name": "com.man.batchmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67084343510-p59r3mhrgsses4e5tp7ui2m4qlpn2mo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFRIGZUKY0mpr0ShnmeBm_968635qcCYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67084343510-p59r3mhrgsses4e5tp7ui2m4qlpn2mo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
